@@ -1,7 +1,6 @@
-# practica2_grupo34_so2
+# Programación concurrente y desarrollo de software con múltiples hilos.
 
-#Descripcion:
-Descripción e Instrucciones Generales Para Todos Los Problemas
+## Descripción e Instrucciones Generales Para Todos Los Problemas
 
 En los grupos establecidos del laboratorio, se le solicita a los estudiantes desarrollar las
 siguientes aplicaciones y resolver los siguientes problemas utilizando el lenguaje de
@@ -38,3 +37,9 @@ de múltiples procesos de forma concurrente y/o paralela.
 
 
 # Problema 3 : Video Juego Space Invaders
+
+
+#
+Practica 2
+Sistemas Operativos 2
+Laboratorio
